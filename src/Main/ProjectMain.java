@@ -1,6 +1,6 @@
 package Main;
 
-public class ProjectTest {
+public class ProjectMain {
 
     public static void main(String[] args) {
         new Process();
